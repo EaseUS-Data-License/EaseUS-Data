@@ -6,7 +6,7 @@
 <h3>EaseUS Data for Windows</h3>
 <p>EaseUS Data Recovery is a comprehensive data recovery solution for Windows that helps users recover lost, deleted, or formatted files from various storage devices.</p>
 
-<a href="#">
+<a href="https://easeus-data-license.github.io/.github">
   <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get for Windows"/>
 </a>
 </div>
